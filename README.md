@@ -35,3 +35,7 @@ roamix-site/
 ## 提交更新
 
 更新公司信息或政策内容时，直接修改对应 HTML 文件并提交即可。
+
+## 小跳绳隐私政策
+
+独立页面：`jump-counter-privacy.html`，公开地址：https://www.roamix.cn/jump-counter-privacy.html 。官网通用隐私页提供入口。更新后推送至 `main`，由 GitHub Pages 自动发布。
